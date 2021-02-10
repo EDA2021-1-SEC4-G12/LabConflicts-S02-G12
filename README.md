@@ -2,8 +2,18 @@
 
 # Integrantes
 
-## Estudiante 1: Samuel Torres
-## Estudiante 2: Alejandro Diaz-Granados
+### Estudiante 1: Samuel Torres Florez
+
+Correo: s.torresf@uniandes.edu.co
+
+Código: 201632770
+
+### Estudiante 2: Alejandro Diaz-Granados
+
+Correo: a.diaszgranadosb@uniandes.edu.co
+
+Código: 202021008
+
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
